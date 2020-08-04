@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "A Deep Dive into Latent Space"
+title                    : "ICCC 2020 Tutorial"
 title_separator          : "-"
 name                     : &name "Sebastian Berns and Terence Broad"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "A Deep Dive into Latent Space: Image Generation and Manipulation with StyleGAN2"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : # "profile.png"
+  bio              : "Tutorial at the <a href='http://computationalcreativity.net/iccc20/' target='blank'>International Conference on Computational Creativity 2020</a>"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
