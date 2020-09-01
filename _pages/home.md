@@ -31,9 +31,9 @@ Presentation slides: [ICCC 2020 Deep Dive Latent Space Tutorial Theory.pdf](http
 
 Part Two: Notebook Walk-through
 ======
-The notebook is hosted on Google Colaboratory: [deepdivetutorial.ipnyb](https://colab.research.google.com/drive/1PlvXkqgxyvJytA7muvdYuAznjCHnAa2B?usp=sharing)
+The video below will guide through the exercises that are set up in the notebook: [deepdivetutorial.ipnyb](https://colab.research.google.com/drive/1PlvXkqgxyvJytA7muvdYuAznjCHnAa2B?usp=sharing).
 
-A guided walk through the code is available to help with setting up and running the exercises.
+The code repository used in the exercises: [terrybroad/deepdivelatentspace-tutorial-code](https://github.com/terrybroad/deepdivelatentspace-tutorial-code)
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r3Vg2Z7SI4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
