@@ -23,8 +23,11 @@ Part One: Theory and Background
 ======
 Exercises in this tutorial are based on a pre-trained StyleGAN2 model, which employs particular architectural choices. The first part of the tutorial provides an overview over the progressive improvements and changes that helped evolve the original GAN proposal into the current state-of-the-art networks. The topics covered here build the base for a better technical understanding of the exercises in the second part of the tutorial.
 
-(Insert video 1 here)
+Presentation slides: [ICCC 2020 Deep Dive Latent Space Tutorial Theory.pdf](https://drive.google.com/file/d/1bJ-atnS1B2jH2Mi437MTnkB1POHGmFl7/view?usp=sharing)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vu84G6McaCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+&nbsp;
 
 Part Two: Notebook Walk-through
 ======
@@ -32,8 +35,9 @@ The notebook is hosted on Google Colaboratory: [deepdivetutorial.ipnyb](https://
 
 A guided walk through the code is available to help with setting up and running the exercises.
 
-(Insert video 2 here)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r3Vg2Z7SI4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+&nbsp;
 
 Live Q&A Sessions
 ======
