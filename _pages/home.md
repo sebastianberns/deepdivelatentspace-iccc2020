@@ -65,7 +65,6 @@ Additional Resources
 
 Shameless Plugs
 ======
-Berns and Colton. 2020. Bridging Generative Deep Learning and Computational Creativity. Proceedings of the 11th
-International Conference on Computational Creativity.
+Berns and Colton. 2020. Bridging Generative Deep Learning and Computational Creativity. Proceedings of the 11th International Conference on Computational Creativity. [Paper](http://sebastianberns.com/iccc2020bridging/)
 
 Broad, Leymarie and Grierson. 2020. Network Bending: Manipulating The Inner Representations of Deep Generative Models. [Paper](https://arxiv.org/abs/2005.12420), [code](https://github.com/terrybroad/network-bending), [colab notebook](https://colab.research.google.com/github/dvschultz/ml-art-colabs/blob/master/Network_Bending_Static_Images.ipynb)
